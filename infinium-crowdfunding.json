@@ -3,54 +3,63 @@
          {
           "name": "Infinium",
           "url": "127.0.0.1",
+          "decimal": 8,
           "port": 31114,
           "rpcMethod": "getbalance"
         },
         {
           "name": "Monero Classic",
           "url": "127.0.0.1",
+          "decimal": 12,
           "port": 18339,
           "rpcMethod": "getbalance"
         },
         {
           "name": "Monero",
           "url": "127.0.0.1",
+          "decimal": 12,
           "port": 18344,
           "rpcMethod": "getbalance"
         },
         {
           "name": "Talleo",
           "url": "127.0.0.1",
+          "decimal": 2,
           "port": 18347,
           "rpcMethod": "getbalance"
         },
         {
           "name": "Lethean",
           "url": "127.0.0.1",
+          "decimal": 8,
           "port": 18352,
           "rpcMethod": "getbalance"
         },
         {
           "name": "PepePrivate",
           "url": "127.0.0.1",
+          "decimal": 9,
           "port": 18357,
           "rpcMethod": "getbalance"
         },
         {
           "name": "Graft",
           "url": "127.0.0.1",
+          "decimal": 10,
           "port": 18362,
           "rpcMethod": "getbalance"
         },
         {
           "name": "GNTLCoin",
           "url": "127.0.0.1",
+          "decimal": 9,
           "port": 18367,
           "rpcMethod": "getbalance"
         },
         {
           "name": "Morelo",
           "url": "127.0.0.1",
+          "decimal": 9,
           "port": 18372,
           "rpcMethod": "getbalance"
         }
