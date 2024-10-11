@@ -26,7 +26,7 @@
           "url": "127.0.0.1",
           "decimal": 2,
           "port": 18347,
-          "rpcMethod": "getbalance"
+          "rpcMethod": "getBalance"
         },
         {
           "name": "Lethean",
