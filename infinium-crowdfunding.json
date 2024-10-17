@@ -6,6 +6,7 @@
           "decimal": 8,
           "port": 31114,
           "rpcMethod": "getbalance",
+          "walletType": "out",
           "image": "https://i.imgur.com/fGtidqc.png"
          },
          {
@@ -14,6 +15,7 @@
           "decimal": 8,
           "port": 0,
           "rpcMethod": "getbalance",
+          "walletType": "out",
           "image": "https://i.imgur.com/I6bIXVd.png"
          },
          {
@@ -22,6 +24,7 @@
           "decimal": 8,
           "port": 0,
           "rpcMethod": "getbalance",
+          "walletType": "out",
           "image": "https://i.imgur.com/a96ETfY.png"
          },    
          {
@@ -30,6 +33,7 @@
           "decimal": 8,
           "port": 31114,
           "rpcMethod": "getbalance",
+          "walletType": "in",
           "image": "https://i.imgur.com/s4VsCJ8.png"
         },
         {
@@ -38,6 +42,7 @@
           "decimal": 12,
           "port": 18339,
           "rpcMethod": "getbalance",
+          "walletType": "in",
           "image": "https://i.imgur.com/ih4RTkD.png"
         },
         {
@@ -46,6 +51,7 @@
           "decimal": 12,
           "port": 18344,
           "rpcMethod": "getbalance",
+          "walletType": "in",
           "image": "https://i.imgur.com/dAiLSmL.png"
         },
         {
@@ -54,6 +60,7 @@
           "decimal": 2,
           "port": 18347,
           "rpcMethod": "getBalance",
+          "walletType": "in",
           "image": "https://i.imgur.com/h98YE98.png"
         },
         {
@@ -62,6 +69,7 @@
           "decimal": 8,
           "port": 18352,
           "rpcMethod": "getbalance",
+          "walletType": "in",
           "image": "https://i.imgur.com/MZiwFUv.png"
         },
         {
@@ -70,6 +78,7 @@
           "decimal": 9,
           "port": 18357,
           "rpcMethod": "getbalance",
+          "walletType": "in",
           "image": "https://i.imgur.com/S2UdRcZ.png"
         },
         {
@@ -78,6 +87,7 @@
           "decimal": 10,
           "port": 18362,
           "rpcMethod": "getbalance",
+          "walletType": "in",
           "image": "https://i.imgur.com/asdTTTK.png"
         },
         {
@@ -86,6 +96,7 @@
           "decimal": 9,
           "port": 18367,
           "rpcMethod": "getbalance",
+          "walletType": "in",
           "image": "https://i.imgur.com/7nCELdG.png"
         },
         {
@@ -94,6 +105,7 @@
           "decimal": 9,
           "port": 18372,
           "rpcMethod": "getbalance",
+          "walletType": "in",
           "image": "https://i.imgur.com/F7zEKcg.png"
         }
   ]
