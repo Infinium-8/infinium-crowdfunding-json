@@ -9,6 +9,14 @@
           "image": "https://i.imgur.com/fGtidqc.png"
          },
          {
+          "name": "Litecoin",
+          "url": "127.0.0.1",
+          "decimal": 8,
+          "port": 0,
+          "rpcMethod": "getbalance",
+          "image": "https://i.imgur.com/I6bIXVd.png"
+         },
+         {
           "name": "Infinium",
           "url": "127.0.0.1",
           "decimal": 8,
