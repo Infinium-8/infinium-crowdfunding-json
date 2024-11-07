@@ -46,6 +46,15 @@
           "image": "https://i.imgur.com/ih4RTkD.png"
         },
         {
+          "name": "Equilibria",
+          "url": "185.252.215.234",
+          "decimal": 4,
+          "port": 40010,
+          "rpcMethod": "getbalance",
+          "walletType": "in",
+          "image": "https://i.imgur.com/uyep4t9.png"
+        },
+        {
           "name": "Monero",
           "url": "127.0.0.1",
           "decimal": 12,
