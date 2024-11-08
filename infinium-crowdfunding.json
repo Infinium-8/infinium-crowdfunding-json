@@ -37,6 +37,15 @@
           "image": "https://i.imgur.com/s4VsCJ8.png"
         },
         {
+          "name": "Arto",
+          "url": "185.252.215.234",
+          "decimal": 8,
+          "port": 40011,
+          "rpcMethod": "getbalance",
+          "walletType": "in",
+          "image": "https://i.imgur.com/s4VsCJ8.png"
+        },
+        {
           "name": "Monero Classic",
           "url": "127.0.0.1",
           "decimal": 12,
