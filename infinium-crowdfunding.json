@@ -59,7 +59,7 @@
           "url": "127.0.0.1",
           "decimal": 12,
           "port": 40013,
-          "rpcMethod": "getbalance",
+          "rpcMethod": "get_balance",
           "walletType": "in",
           "image": "https://i.imgur.com/tn2Dn3T.png"
         },
