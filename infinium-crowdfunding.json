@@ -55,15 +55,6 @@
           "image": "https://i.imgur.com/rn8EZfX.png"
         },
         {
-          "name": "Qwertycoin",
-          "url": "185.252.215.234",
-          "decimal": 8,
-          "port": 40012,
-          "rpcMethod": "getbalance",
-          "walletType": "in",
-          "image": "https://i.imgur.com/Q6475fo.png"
-        },
-        {
           "name": "Dogemone",
           "url": "127.0.0.1",
           "decimal": 12,
