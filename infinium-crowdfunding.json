@@ -109,15 +109,6 @@
           "image": "https://i.imgur.com/S2UdRcZ.png"
         },
         {
-          "name": "Graft",
-          "url": "127.0.0.1",
-          "decimal": 10,
-          "port": 40005,
-          "rpcMethod": "getbalance",
-          "walletType": "in",
-          "image": "https://i.imgur.com/asdTTTK.png"
-        },
-        {
           "name": "GNTLCoin",
           "url": "127.0.0.1",
           "decimal": 9,
