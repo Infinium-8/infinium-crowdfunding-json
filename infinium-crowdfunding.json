@@ -100,13 +100,13 @@
           "image": "https://i.imgur.com/MZiwFUv.png"
         },
         {
-          "name": "PepePrivate",
+          "name": "UltraNote Infinity",
           "url": "127.0.0.1",
-          "decimal": 9,
+          "decimal": 6,
           "port": 40004,
-          "rpcMethod": "getbalance",
+          "rpcMethod": "getBalance",
           "walletType": "in",
-          "image": "https://i.imgur.com/S2UdRcZ.png"
+          "image": "https://i.imgur.com/bpFmir4.png"
         },
         {
           "name": "GNTLCoin",
