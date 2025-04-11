@@ -17,16 +17,7 @@
           "rpcMethod": "getbalance",
           "walletType": "out",
           "image": "https://i.imgur.com/I6bIXVd.png"
-         },
-         {
-          "name": "Dogecoin",
-          "url": "127.0.0.1",
-          "decimal": 8,
-          "port": 0,
-          "rpcMethod": "getbalance",
-          "walletType": "out",
-          "image": "https://i.imgur.com/a96ETfY.png"
-         },    
+         }, 
          {
           "name": "Infinium",
           "url": "127.0.0.1",
