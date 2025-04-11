@@ -46,14 +46,14 @@
           "image": "https://i.imgur.com/rn8EZfX.png"
         },
         {
-          "name": "Dogemone",
+          "name": "Dogecoin",
           "url": "127.0.0.1",
-          "decimal": 12,
-          "port": 40013,
-          "rpcMethod": "get_balance",
-          "walletType": "in",
-          "image": "https://i.imgur.com/tn2Dn3T.png"
-        },
+          "decimal": 8,
+          "port": 0,
+          "rpcMethod": "getbalance",
+          "walletType": "out",
+          "image": "https://i.imgur.com/a96ETfY.png"
+        }, 
         {
           "name": "Equilibria",
           "url": "185.252.215.234",
