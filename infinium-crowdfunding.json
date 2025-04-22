@@ -17,7 +17,25 @@
           "rpcMethod": "getbalance",
           "walletType": "out",
           "image": "https://i.imgur.com/I6bIXVd.png"
-         }, 
+         },
+         {
+          "name": "Dogecoin",
+          "url": "127.0.0.1",
+          "decimal": 8,
+          "port": 0,
+          "rpcMethod": "getbalance",
+          "walletType": "out",
+          "image": "https://i.imgur.com/a96ETfY.png"
+         },
+         {
+          "name": "Monero",
+          "url": "127.0.0.1",
+          "decimal": 12,
+          "port": 40008,
+          "rpcMethod": "getbalance",
+          "walletType": "in",
+          "image": "https://i.imgur.com/dAiLSmL.png"
+         },
          {
           "name": "Infinium",
           "url": "127.0.0.1",
@@ -37,24 +55,6 @@
           "image": "https://i.imgur.com/ih4RTkD.png"
         },
         {
-          "name": "Arto",
-          "url": "185.252.215.234",
-          "decimal": 8,
-          "port": 40011,
-          "rpcMethod": "getbalance",
-          "walletType": "in",
-          "image": "https://i.imgur.com/rn8EZfX.png"
-        },
-        {
-          "name": "Dogecoin",
-          "url": "127.0.0.1",
-          "decimal": 8,
-          "port": 0,
-          "rpcMethod": "getbalance",
-          "walletType": "out",
-          "image": "https://i.imgur.com/a96ETfY.png"
-        }, 
-        {
           "name": "Equilibria",
           "url": "185.252.215.234",
           "decimal": 4,
@@ -62,24 +62,6 @@
           "rpcMethod": "getbalance",
           "walletType": "in",
           "image": "https://i.imgur.com/uyep4t9.png"
-        },
-        {
-          "name": "Monero",
-          "url": "127.0.0.1",
-          "decimal": 12,
-          "port": 40008,
-          "rpcMethod": "getbalance",
-          "walletType": "in",
-          "image": "https://i.imgur.com/dAiLSmL.png"
-        },
-        {
-          "name": "Talleo",
-          "url": "127.0.0.1",
-          "decimal": 2,
-          "port": 40002,
-          "rpcMethod": "getBalance",
-          "walletType": "in",
-          "image": "https://i.imgur.com/h98YE98.png"
         },
         {
           "name": "Lethean",
@@ -116,6 +98,15 @@
           "rpcMethod": "getbalance",
           "walletType": "in",
           "image": "https://i.imgur.com/F7zEKcg.png"
+        },
+        {
+          "name": "Arto",
+          "url": "185.252.215.234",
+          "decimal": 8,
+          "port": 40011,
+          "rpcMethod": "getbalance",
+          "walletType": "in",
+          "image": "https://i.imgur.com/rn8EZfX.png"
         }
   ]
 }
