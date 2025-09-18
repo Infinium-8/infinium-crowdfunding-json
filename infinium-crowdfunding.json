@@ -89,15 +89,6 @@
           "rpcMethod": "getbalance",
           "walletType": "in",
           "image": "https://i.imgur.com/F7zEKcg.png"
-        },
-        {
-          "name": "Arto",
-          "url": "185.252.215.234",
-          "decimal": 8,
-          "port": 40011,
-          "rpcMethod": "getbalance",
-          "walletType": "in",
-          "image": "https://i.imgur.com/rn8EZfX.png"
         }
   ]
 }
