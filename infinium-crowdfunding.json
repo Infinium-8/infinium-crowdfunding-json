@@ -55,15 +55,6 @@
           "image": "https://i.imgur.com/uyep4t9.png"
         },
         {
-          "name": "Lethean",
-          "url": "127.0.0.1",
-          "decimal": 8,
-          "port": 40003,
-          "rpcMethod": "getbalance",
-          "walletType": "in",
-          "image": "https://i.imgur.com/MZiwFUv.png"
-        },
-        {
           "name": "UltraNote Infinity",
           "url": "127.0.0.1",
           "decimal": 6,
