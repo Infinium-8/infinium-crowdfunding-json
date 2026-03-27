@@ -28,15 +28,6 @@
           "image": "https://i.imgur.com/a96ETfY.png"
          },
          {
-          "name": "Monero",
-          "url": "127.0.0.1",
-          "decimal": 12,
-          "port": 40008,
-          "rpcMethod": "getbalance",
-          "walletType": "in",
-          "image": "https://i.imgur.com/dAiLSmL.png"
-         },
-         {
           "name": "Infinium",
           "url": "127.0.0.1",
           "decimal": 8,
